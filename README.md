@@ -1,47 +1,21 @@
-# File Compressor
+# 文件压缩器
 
-A desktop application for compressing files efficiently.
+一款高效的桌面文件压缩应用程序，有网页版(文件压缩.html)和桌面版(文件压缩.exe)。
 
-## Features
+## 功能特点
 
-- Simple and intuitive user interface
-- File compression functionality
-- Cross-platform support
+- 简单直观的用户界面
+- 文件压缩功能(包括更改分辨率、图片质量)
 
-## Installation
+## 下载
+##EXE桌面版
+1. 访问https://wwfn.lanzn.com/ivXYA2jiawzc
+2.输入密码:1234
+##HTML网页版
+1.克隆项目
+2.解压项目
+3.打开解压后的文件<文件压缩.html
 
-1. Clone this repository
-2. Install dependencies:
-```bash
-npm install
-```
-
-## Development
-
-To run the application in development mode:
-
-```bash
-npm start
-```
-
-## Building
-
-To build the application:
-
-```bash
-npm run build
-```
-
-## Technologies Used
-
-- JavaScript
-- Electron
-- Node.js
-
-## License
-
-MIT License
-
-## Last Updated
+## 最后更新
 
 2024-12-31
